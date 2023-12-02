@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Python",
+    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/python.jpg"
+  },
+  {
+    "name": "C++",
+    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/C++.png"
+  },
+    {
+    "name": "HTML",
+    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/HTML.png"
+  },
+  {
+    "name": "JavaScript",
+    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/JS.png"
+  },
+  {
+    "name": "CSS",
+    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/CSS.png"
+  },
+  {
+    "name": "Java",
+    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/Java.png"
+  }
+]
