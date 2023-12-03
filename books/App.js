@@ -15,7 +15,7 @@ function CoursebooksScreen({ route, navigation }) {
 
   useEffect(() => {
     const fetchData = async () => {
-        const response = await axios.get('https://astys1.github.io/MyBook/book.json');
+        const response = await axios.get('https://vikworldvg.github.io/library/data/book.json');
       setBooks(response.data.filter(b => b.course === query));
     };
 
@@ -47,7 +47,7 @@ function CoursesScreen({ navigation }) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get('https://astys1.github.io/MyBook/courses.json');
+        const response = await axios.get('https://vikworldvg.github.io/library/data/courses.json');
         setCourses(response.data);
       } catch (error) {
         console.error(error);
@@ -77,7 +77,7 @@ function BooksScreen({ navigation }) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get('https://kajuro.github.io/book.json');
+        const response = await axios.get('https://vikworldvg.github.io/library/data/book.json');
         setBooks(response.data);
       } catch (error) {
         console.error(error);
