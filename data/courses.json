@@ -1,26 +1,26 @@
 [
   {
     "name": "Python",
-    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/python.jpg"
+    "img": "https://github.com/vikworldvg/library/tree/main/data/cimg/python.jpg"
   },
   {
     "name": "C++",
-    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/C++.png"
+    "img": "https://github.com/vikworldvg/library/tree/main/data/cimg/C++.png"
   },
     {
     "name": "HTML",
-    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/HTML.png"
+    "img": "https://github.com/vikworldvg/library/tree/main/data/cimg/HTML.png"
   },
   {
     "name": "JavaScript",
-    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/JS.png"
+    "img": "https://github.com/vikworldvg/library/tree/main/data/cimg/JS.png"
   },
   {
     "name": "CSS",
-    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/CSS.png"
+    "img": "https://github.com/vikworldvg/library/tree/main/data/cimg/CSS.png"
   },
   {
     "name": "Java",
-    "img": "https://github.com/Kajuro/MyBook/tree/main/cimg/Java.png"
+    "img": "https://github.com/vikworldvg/library/tree/main/data/cimg/Java.png"
   }
 ]
